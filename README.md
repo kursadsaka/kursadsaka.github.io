@@ -1,2 +1,1 @@
 # kursadsaka.github.io
-hi
