@@ -1,0 +1,5 @@
+html {
+    height: 100%;
+    background: rgb(137,128,129);
+    background: linear-gradient(147deg, rgba(137,128,129,1) 0%, rgba(24,8,152,1) 100%);
+}
